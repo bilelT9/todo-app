@@ -115,8 +115,8 @@ CREATE TABLE tasks (
 ## 🧑‍💻 Author
 
 **Your Name**  
-[GitHub Profile](https://github.com/your-username)  
-[LinkedIn (optional)](https://linkedin.com/in/your-profile)
+[GitHub Profile](https://github.com/bilelT9)  
+[LinkedIn (optional)](https://www.linkedin.com/in/ghazouani-bilel-1a41b2198/)
 
 ---
 
